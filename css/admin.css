@@ -1,0 +1,17 @@
+/**
+ * @package Better-Email-Signature
+ */
+
+/*
+ See readme.txt for more details
+*/
+
+#bes_elements{
+  max-width: 600px;
+}
+.bes_element{
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #DDD;
+}
+.bes_element textarea {max-width: 550px;}
